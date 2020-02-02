@@ -1,0 +1,13 @@
+H:\Advanced C#\LabAsignemnt4\WordsCounter\WordsCounter\bin\Debug\WordsCounter.exe.config
+H:\Advanced C#\LabAsignemnt4\WordsCounter\WordsCounter\bin\Debug\WordsCounter.exe
+H:\Advanced C#\LabAsignemnt4\WordsCounter\WordsCounter\bin\Debug\WordsCounter.pdb
+H:\Advanced C#\LabAsignemnt4\WordsCounter\WordsCounter\obj\Debug\WordsCounter.exe
+H:\Advanced C#\LabAsignemnt4\WordsCounter\WordsCounter\obj\Debug\WordsCounter.pdb
+H:\Advanced C#\LabAsignemnt4\WordsCounter\WordsCounter\obj\Debug\WordsCounter.csprojResolveAssemblyReference.cache
+C:\Users\Dator\Desktop\LabAsignemnt4\WordsCounter\WordsCounter\bin\Debug\WordsCounter.exe.config
+C:\Users\Dator\Desktop\LabAsignemnt4\WordsCounter\WordsCounter\bin\Debug\WordsCounter.exe
+C:\Users\Dator\Desktop\LabAsignemnt4\WordsCounter\WordsCounter\bin\Debug\WordsCounter.pdb
+C:\Users\Dator\Desktop\LabAsignemnt4\WordsCounter\WordsCounter\obj\Debug\WordsCounter.csprojAssemblyReference.cache
+C:\Users\Dator\Desktop\LabAsignemnt4\WordsCounter\WordsCounter\obj\Debug\WordsCounter.csproj.CoreCompileInputs.cache
+C:\Users\Dator\Desktop\LabAsignemnt4\WordsCounter\WordsCounter\obj\Debug\WordsCounter.exe
+C:\Users\Dator\Desktop\LabAsignemnt4\WordsCounter\WordsCounter\obj\Debug\WordsCounter.pdb
